@@ -1,0 +1,23 @@
+*.md
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env

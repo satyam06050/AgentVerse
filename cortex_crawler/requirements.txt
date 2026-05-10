@@ -1,0 +1,26 @@
+# Web scraping
+requests                  # Send HTTP requests to websites
+beautifulsoup4            # Parse and extract HTML content
+lxml                      # Fast HTML/XML parser backend
+
+# LLM API
+openai                    # OpenAI API client
+
+# Environment management
+python-dotenv             # Load API keys from .env file
+
+# Embeddings + RAG
+sentence-transformers     # Generate semantic embeddings
+chromadb                  # Vector database for RAG storage/retrieval
+numpy                     # Vector/math operations
+scikit-learn              # Cosine similarity and ML utilities
+rank-bm25                 # Keyword-based retrieval (hybrid search)
+
+# Token handling
+tiktoken                  # Token counting and chunk sizing
+
+# Dynamic website scraping
+playwright                # Browser automation for JS-heavy websites
+
+# Terminal UX / logging
+rich                      # Better terminal output and debugging
